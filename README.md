@@ -1,8 +1,9 @@
+
 # ♞ Ajedrez Cristal 3D
 
 Tablero de ajedrez 3D interactivo con piezas de cristal originales. Un solo `index.html` (three.js por CDN, sin compilar).
 
-**Diseño Vibe Coding por Ing. Hernán Quiroz**
+**Diseño IA, Ing. Hernán Quiroz** · Diseño Vibe Coding por Ing. Hernán Quiroz
 
 ## Qué incluye
 - Piezas 3D facetadas con núcleo luminoso (cada tipo tiene su propia animación).
